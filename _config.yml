@@ -2,10 +2,16 @@ title: L2 / Statistiques et cartographie
 description: Support de cours - Statistiques et cartographie (Licence 2)
 author: Kadjo Raphael
 
-# Thème "Read the Docs" (identique à la référence)
 remote_theme: carlosperate/jekyll-theme-rtd
 
-# Fichiers Markdown affichés dans l'ordre du menu latéral
+# Réglages du thème
+edit_on_github: true
+github_docs_folder: false
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
+
 markdown: kramdown
 kramdown:
   input: GFM
