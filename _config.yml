@@ -3,6 +3,8 @@ description: Support de cours - Statistiques et cartographie (Licence 2)
 author: Kadjo Raphael
 
 remote_theme: carlosperate/jekyll-theme-rtd
+plugins:
+  - jekyll-remote-theme
 
 # Réglages du thème
 edit_on_github: true
@@ -16,24 +18,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
-# Ordre des pages dans la barre latérale
-nav_pages:
-  - 00_Introduction.md
-  - 01_TD1_Statistique_Univariee.md
-  - 02_TD2_Relation_Quanti_Quanti.md
-  - 03_TD3_Relation_Non_Lineaire.md
-  - 04_TD4_Relation_Quali_Quali.md
-  - 05_TD5_Erreur_Ecologique.md
-  - 06_TD6_Relation_Quali_Quanti.md
-  - 07_Devoir_Sur_Table.md
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: false
 
 exclude:
   - Gemfile
