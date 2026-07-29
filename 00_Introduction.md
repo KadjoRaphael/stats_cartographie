@@ -49,20 +49,24 @@ Correction du devoir sur table + [TD6 - Relation quali-quanti](06_TD6_Relation_Q
 Suite du [TD6 - Relation quali-quanti](06_TD6_Relation_Quali_Quanti.html)
 
 - **Séance 13**
-Séance modulable selon l'avancement du groupe : rattrapage, rappels sur les points de difficulté, ou accompagnement pour le dossier maison.
+Séance modulable selon l'avancement du groupe : rattrapage, rappels sur les points de difficulté, ou préparation à l'examen final.
 
 ---
 
 ## Modalités d'évaluation
 
-- **Devoir sur table (séance 10)**
-- **Dossier maison** *(à préciser)*
+- **Devoir sur table (40 %)**
+Exercice sur des questions de cours et des mises en situation avec des images et tableurs.
+
+- **Examen final (60 %)**
+Épreuve pratique : calcul et représentation d'un jeu de données, export puis jointure et cartographie sur Magrit.
 
 ---
 
 ## Outils
 
-- *(à préciser : Excel, R, QGIS...)*
+- **Excel**
+- **Magrit**
 
 ---
 
@@ -75,4 +79,4 @@ Séance modulable selon l'avancement du groupe : rattrapage, rappels sur les poi
 
 ## Contact
 
-*(ton email ici)*
+raphael.kobenan@gmail.com
