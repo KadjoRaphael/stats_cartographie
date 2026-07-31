@@ -72,8 +72,15 @@ Exercice sur des questions de cours et des mises en situation avec des images et
 
 ## Ressources
 
+## Ressources
+
 - Ce site
-- Support de présentation *(à ajouter)*
+- [TD1 - Statistique univariée](01_TD1_Statistique_Univariee.html)
+- [TD2 - Relation quanti-quanti](02_TD2_Relation_Quanti_Quanti.html)
+- [TD3 - Relation quanti-quanti non linéaire](03_TD3_Relation_Non_Lineaire.html)
+- [TD4 - Relation quali-quali](04_TD4_Relation_Quali_Quali.html)
+- [TD5 - Erreur écologique](05_TD5_Erreur_Ecologique.html)
+- [TD6 - Relation quali-quanti](06_TD6_Relation_Quali_Quanti.html)
 
 ---
 
