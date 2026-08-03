@@ -16,12 +16,12 @@ title: TD1 - Statistique univariée
 
 ## Support de cours
 
-[Statistique univariée](documents/TD1/Statistique univariée.pdf)
+[Statistique univariée (PDF)](documents/TD1/Statistique_univariee.pdf)
 
 ## Données et énoncé
 
-[TD1 - Types de variables et rappels de statistique univariée (énoncé + données)](‪documents/TD1/TD1.xlsx)
+[TD1 - Types de variables et rappels de statistique univariée (énoncé + données au format Excel)](documents/TD1/TD1.xlsx)
 
 ## Correction
 
-[TD1 - Corrigé](‪documents/TD1/TD1_Corrige.xlsx)
+[TD1 - Corrigé (au format Excel)](documents/TD1/TD1_Corrige.xlsx)
