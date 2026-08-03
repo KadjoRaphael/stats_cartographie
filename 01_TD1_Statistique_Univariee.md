@@ -4,24 +4,24 @@ title: TD1 - Statistique univariée
 
 # TD1 - Statistique univariée
 
-**Thème :** données sur l'immigration
+**Thème :** types de variables et rappels de statistique univariée - données sur l'immigration dans les communes de l'Essonne (source INSEE)
 
 ## Objectifs
 
-*(à compléter : ce que les étudiants doivent savoir faire à l'issue du TD)*
+- Distinguer les types de variables (qualitatif nominal/ordinal, quantitatif discret/continu, stock/rapport)
+- Calculer et interpréter les mesures de tendance centrale (moyenne, médiane, mode)
+- Calculer et interpréter les mesures de dispersion (variance, écart-type, coefficient de variation)
+- Construire et lire un histogramme et un diagramme en bâtons
+- Exporter des données et les cartographier avec Magrit (représentations en valeurs absolues et relatives)
 
 ## Support de cours
 
-*(lien vers le PDF / diaporama de cours à ajouter)*
+[Statistique univariée (diaporama)](‪C:/Users/kobenan-r/Downloads/Statistique univariée.pdf)
 
-## Données
+## Données et énoncé
 
-*(lien vers le fichier de données à ajouter)*
-
-## Énoncé du TD
-
-*(lien vers l'énoncé PDF à ajouter, ou contenu directement ici)*
+[TD1 - Types de variables et rappels de statistique univariée (énoncé + données)](‪C:/Users/kobenan-r/Downloads/TD1/TD1.xlsx)
 
 ## Correction
 
-*(à ajouter une fois le TD terminé)*
+[TD1 - Corrigé](‪C:/Users/kobenan-r/Downloads/TD1_Corrige.xlsx)
