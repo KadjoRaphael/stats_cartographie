@@ -72,8 +72,6 @@ Exercice sur des questions de cours et des mises en situation avec des images et
 
 ## Ressources
 
-## Ressources
-
 - Ce site
 - [TD1 - Statistique univariée](01_TD1_Statistique_Univariee.html)
 - [TD2 - Relation quanti-quanti](02_TD2_Relation_Quanti_Quanti.html)
