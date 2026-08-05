@@ -20,7 +20,9 @@ title: TD1 - Statistique univariée
 
 ## Données et énoncé
 
-[TD1 - Types de variables et rappels de statistique univariée (énoncé + données au format Excel)](documents/TD1/TD1.xlsx)
+[TD1 - Types de variables et rappels de statistique univariée (énoncé + données dans un dossier zipé)](documents/TD1/TD1.zip)
+
+> **Note :** en cliquant sur ce lien, votre navigateur va télécharger le fichier zip (il ne s'ouvrira pas automatiquement). Vous devrez ensuite le décompresser vous-même sur votre ordinateur avant de pouvoir accéder aux fichiers qu'il contient.
 
 ## Correction
 
