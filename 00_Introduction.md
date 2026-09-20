@@ -60,17 +60,17 @@ Données sur l'immigration.
 
 👉 [**Accéder au TD1 - Statistique univariée**](01_TD1_Statistique_Univariee.html)
 
-### TD2 — Relation quanti-quanti
+### TD2 - Relation quanti-quanti
 Santé et espérance de vie dans les pays du monde.
 
 👉 [**Accéder au TD2 - Relation quanti-quanti**](02_TD2_Relation_Quanti_Quanti.html)
 
-### TD3 — Relation quanti-quanti monotone mais non linéaire
+### TD3 - Relation quanti-quanti monotone mais non linéaire
 Dépenses de santé et espérance de vie.
 
 👉 [**Accéder au TD3 - Relation non linéaire**](03_TD3_Relation_Non_Lineaire.html)
 
-### TD4 — Relation quali-quali
+### TD4 - Relation quali-quali
 Mobilité sociale en France et au Royaume-Uni.
 
 👉 [**Accéder au TD4 - Relation quali-quali**](04_TD4_Relation_Quali_Quali.html)
@@ -80,7 +80,7 @@ Mobilité sociale en France et au Royaume-Uni.
 
 👉 [**Accéder au TD5 - Erreur écologique**](05_TD5_Erreur_Ecologique.html)
 
-### TD6 — Relation quali-quanti
+### TD6 - Relation quali-quanti
 Ségrégation dans la ville de Cape Town.
 
 👉 [**Accéder au TD6 - Relation quali-quanti**](06_TD6_Relation_Quali_Quanti.html)
