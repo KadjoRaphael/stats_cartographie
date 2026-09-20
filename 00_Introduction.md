@@ -75,7 +75,7 @@ Mobilité sociale en France et au Royaume-Uni.
 
 👉 [**Accéder au TD4 - Relation quali-quali**](04_TD4_Relation_Quali_Quali.html)
 
-### TD5 — Erreur écologique
+### TD5 - Erreur écologique
 Étude de cas : Trifouilly.
 
 👉 [**Accéder au TD5 - Erreur écologique**](05_TD5_Erreur_Ecologique.html)
