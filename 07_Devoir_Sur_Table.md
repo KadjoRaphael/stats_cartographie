@@ -1,5 +1,6 @@
 ---
 title: Devoir sur table
+nav_order: 9
 ---
 
 # Devoir sur table (DST)
