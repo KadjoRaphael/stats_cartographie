@@ -5,7 +5,7 @@ nav_order: 4
 
 # TD2 - Relation entre deux variables quantitatives
 
-**Thème :** santé et espérance de vie dans les pays du monde — introduction
+**Thème :** santé et espérance de vie dans les pays du monde - introduction
 à l'analyse de la relation entre deux variables quantitatives.
 
 Dans le TD1, nous avons appris à **décrire une variable à la fois**.
