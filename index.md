@@ -91,11 +91,11 @@ L'évaluation du module comprend un **contrôle continu (50 %)** et un
 
 Le contrôle continu est composé de deux épreuves :
 
-- ✏️ **DST Méthode — 40 % du contrôle continu** : devoir individuel sur
+- ✏️ **DST Méthode - 40 % du contrôle continu** : devoir individuel sur
   papier permettant d'évaluer la compréhension et l'application des méthodes
   étudiées en cours et en TD ;
 
-- 💻 **DST Informatique — 60 % du contrôle continu** : devoir individuel
+- 💻 **DST Informatique - 60 % du contrôle continu** : devoir individuel
   sur ordinateur permettant de mettre en pratique les méthodes de traitement
   et d'analyse des données étudiées pendant les TD.
 
