@@ -55,7 +55,7 @@ les séances consacrées aux évaluations et à leurs corrections.
 Le semestre est organisé autour de **6 TD**, étudiés progressivement au cours
 des différentes séances.
 
-### TD1 — Statistique univariée
+### TD1 - Statistique univariée
 Données sur l'immigration.
 
 👉 [**Accéder au TD1 - Statistique univariée**](01_TD1_Statistique_Univariee.html)
