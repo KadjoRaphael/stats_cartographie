@@ -1,5 +1,6 @@
 ---
 title: TD1 - Statistique univariée
+nav_order: 3
 ---
 
 # TD1 - Statistique univariée
