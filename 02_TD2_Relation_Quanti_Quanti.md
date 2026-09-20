@@ -1,5 +1,6 @@
 ---
 title: TD2 - Relation quanti-quanti
+nav_order: 4
 ---
 
 # TD2 - Relation entre deux variables quantitatives
