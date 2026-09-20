@@ -127,7 +127,7 @@ Puis :
 
 👉 [**3. Consultez le déroulé pédagogique**](documents/deroule_pedagogique.pdf)
 
-👉 [**4. Commencez le TD1 — Statistique univariée**](01_TD1_Statistique_Univariee.html)
+👉 [**4. Commencez le TD1 - Statistique univariée**](01_TD1_Statistique_Univariee.html)
 
 ---
 
