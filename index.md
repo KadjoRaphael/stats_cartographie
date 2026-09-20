@@ -45,7 +45,7 @@ Deux documents vous permettent de comprendre l'organisation générale du cours.
 Ce document présente l'organisation du semestre et les principales
 modalités d'évaluation.
 
-👉 [**Télécharger la présentation du module (PDF)**](documents/Présentation_du_module.pdf)
+👉 [**Télécharger la présentation du module (PDF)**](documents/Presentation_du_module.pdf)
 
 ### Déroulé pédagogique
 
