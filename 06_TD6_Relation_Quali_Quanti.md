@@ -1,5 +1,6 @@
 ---
 title: TD6 - Relation quali-quanti
+nav_order: 8
 ---
 
 # TD6 - Relation quali-quanti
