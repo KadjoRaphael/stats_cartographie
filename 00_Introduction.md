@@ -1,5 +1,6 @@
 ---
 title: Introduction - L2 / Statistiques et cartographie
+nav_order: 2
 ---
 
 # Introduction
