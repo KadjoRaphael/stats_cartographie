@@ -1,5 +1,6 @@
 ---
 title: TD3 - Relation quanti-quanti non linéaire
+nav_order: 5
 ---
 
 # TD3 - Relation monotone non linéaire entre deux variables quantitatives
