@@ -12,94 +12,126 @@ Ce cours a pour objectif d'initier les étudiant·es à la **statistique appliqu
 ségrégation urbaine, etc.
 
 L'objectif est d'apprendre progressivement à **traiter, analyser, représenter
-et cartographier des données**.
+et cartographier des données géographiques**.
 
 ---
 
-# 📘 Présentation générale du cours
+# 📘 Présentation du module
 
-Avant de commencer les TD, consultez le document de présentation générale
-du cours.
+Avant de commencer les TD, consultez le document de **présentation du module**.
 
-Vous y trouverez notamment :
+Vous y trouverez les informations essentielles concernant :
 
-- les objectifs du cours ;
-- l'organisation des séances ;
-- les compétences visées ;
-- les outils utilisés ;
-- les modalités d'évaluation.
+- l'organisation générale du semestre ;
+- le nombre de séances ;
+- les modalités d'évaluation ;
+- le DST Méthode ;
+- le DST Informatique ;
+- les conditions de réalisation des évaluations.
 
-👉 [**Télécharger la présentation générale du cours (PDF)**](documents/Presentation_generale_du_cours.pdf)
+👉 [**Télécharger la présentation du module (PDF)**](documents/Presentation_du_module.pdf)
+
+---
+
+# 🗓️ Déroulé pédagogique
+
+Le déroulé pédagogique présente l'organisation des différentes séances de TD
+au cours du semestre.
+
+Il permet de savoir **quel TD sera travaillé à chaque séance** et de repérer
+les séances consacrées aux évaluations et à leurs corrections.
+
+> **Important :** ce calendrier est indicatif. Il pourra être légèrement
+> adapté en fonction de l'avancement des différents groupes et des contraintes
+> rencontrées au cours du semestre.
+
+👉 [**Télécharger le déroulé pédagogique (PDF)**](documents/deroule_pedagogique.pdf)
 
 ---
 
 # 📚 Programme pédagogique
 
-### Séance 1
-Présentation du cours + [TD1 — Statistique univariée](01_TD1_Statistique_Univariee.html)  
-*Données sur l'immigration.*
+Le semestre est organisé autour de **6 TD**, étudiés progressivement au cours
+des différentes séances.
 
-### Séance 2
-Suite du [TD1 — Statistique univariée](01_TD1_Statistique_Univariee.html).
+### TD1 — Statistique univariée
+Données sur l'immigration.
 
-### Séance 3
-[TD2 — Relation quanti-quanti](02_TD2_Relation_Quanti_Quanti.html)  
-*Santé et espérance de vie dans les pays du monde.*
+👉 [**Accéder au TD1 - Statistique univariée**](01_TD1_Statistique_Univariee.html)
 
-### Séance 4
-Suite du [TD2 — Relation quanti-quanti](02_TD2_Relation_Quanti_Quanti.html).
+### TD2 — Relation quanti-quanti
+Santé et espérance de vie dans les pays du monde.
 
-### Séance 5
-[TD3 — Relation quanti-quanti non linéaire](03_TD3_Relation_Non_Lineaire.html)  
-*Dépenses de santé et espérance de vie.*
+👉 [**Accéder au TD2 - Relation quanti-quanti**](02_TD2_Relation_Quanti_Quanti.html)
 
-### Séance 6
-Suite du [TD3 — Relation quanti-quanti non linéaire](03_TD3_Relation_Non_Lineaire.html).
+### TD3 — Relation quanti-quanti monotone mais non linéaire
+Dépenses de santé et espérance de vie.
 
-### Séance 7
-[TD4 — Relation quali-quali](04_TD4_Relation_Quali_Quali.html)  
-*Mobilité sociale en France et au Royaume-Uni.*
+👉 [**Accéder au TD3 - Relation non linéaire**](03_TD3_Relation_Non_Lineaire.html)
 
-### Séance 8
-Suite du [TD4 — Relation quali-quali](04_TD4_Relation_Quali_Quali.html).
+### TD4 — Relation quali-quali
+Mobilité sociale en France et au Royaume-Uni.
 
-### Séance 9
-[TD5 — Erreur écologique](05_TD5_Erreur_Ecologique.html)  
-*Cas de Trifouilly.*
+👉 [**Accéder au TD4 - Relation quali-quali**](04_TD4_Relation_Quali_Quali.html)
 
-### Séance 10
-[Devoir sur table](07_Devoir_Sur_Table.html).
+### TD5 — Erreur écologique
+Étude de cas : Trifouilly.
 
-### Séance 11
-Correction du devoir sur table + [TD6 — Relation quali-quanti](06_TD6_Relation_Quali_Quanti.html)  
-*Ségrégation dans la ville de Cape Town.*
+👉 [**Accéder au TD5 - Erreur écologique**](05_TD5_Erreur_Ecologique.html)
 
-### Séance 12
-Suite du [TD6 — Relation quali-quanti](06_TD6_Relation_Quali_Quanti.html).
+### TD6 — Relation quali-quanti
+Ségrégation dans la ville de Cape Town.
 
-### Séance 13
-Séance modulable selon l'avancement du groupe : rattrapage, rappels sur
-les points de difficulté ou préparation à l'examen final.
+👉 [**Accéder au TD6 - Relation quali-quanti**](06_TD6_Relation_Quali_Quanti.html)
+
+---
+
+# 📅 Organisation des séances
+
+| Séance | Contenu |
+| --- | --- |
+| **Séance 1** | Présentation du semestre et début du TD1 |
+| **Séance 2** | TD1 - Statistique univariée |
+| **Séance 3** | TD2 - Relation quanti-quanti |
+| **Séance 4** | Suite du TD2 |
+| **Séance 5** | TD3 - Relation quanti-quanti monotone mais non linéaire |
+| **Séance 6** | Suite du TD3 |
+| **Séance 7** | **DST Méthode** et début du TD4 |
+| **Séance 8** | TD4 - Relation quali-quali |
+| **Séance 9** | Correction du DST Méthode et début du TD5 |
+| **Séance 10** | TD5 - Erreur écologique |
+| **Séance 11** | **DST Informatique** et début du TD6 |
+| **Séance 12** | TD6 - Relation quali-quanti |
+| **Séance 13** | Correction du TD6, rattrapage éventuel, révision et consolidation |
+
+> ⚠️ **Ce calendrier est indicatif.** Le contenu de certaines séances pourra
+> être adapté en fonction de l'avancement du groupe.
 
 ---
 
 # 📝 Modalités d'évaluation
 
-L'évaluation du cours comprend deux épreuves.
+L'évaluation générale du module est organisée de la manière suivante :
 
-## ✏️ Devoir sur table — DST Méthode (40 %)
+- **Contrôle continu (CC) : 50 %**
+- **Examen partiel : 50 %**
 
-Le **DST Méthode** est un devoir individuel réalisé **sur papier pendant
-le créneau habituel du TD**, portant sur les méthodes et les notions étudiées
-en cours et en TD.
+Le contrôle continu comprend deux évaluations :
 
-📅 **Période prévue : semaine du 23 novembre**  
-La date exacte sera précisée dans chaque groupe en fonction de l'avancement.
+- **DST Méthode : 40 % du contrôle continu**
+- **DST Informatique : 60 % du contrôle continu**
 
-### Documents autorisés
+---
 
-Les étudiant·es peuvent utiliser leurs **notes personnelles de cours**, à
-condition qu'elles soient :
+## ✏️ DST Méthode
+
+Le **DST Méthode** est un devoir individuel réalisé **sur papier**, pendant
+le créneau habituel du TD.
+
+Les étudiant·es peuvent apporter leurs **notes personnelles de cours sur
+papier**.
+
+Ces notes doivent être :
 
 - personnelles ;
 - individuelles ;
@@ -109,50 +141,27 @@ Ne sont pas autorisés :
 
 - les livres ;
 - les cours imprimés ;
-- les notes collectives ou échangées entre étudiant·es ;
+- les notes collectives ou échangées ;
 - les téléphones ;
 - les ordinateurs portables ;
-- toute connexion numérique.
+- les connexions numériques.
 
 > 💡 **En une phrase :** le DST Méthode vérifie votre capacité à comprendre
-> et à appliquer les méthodes étudiées en cours et en TD, individuellement
-> et sur papier.
+> et à appliquer individuellement, sur papier, les méthodes étudiées en cours
+> et en TD.
 
 ---
 
-## 💻 Devoir sur table — DST Informatique
+## 💻 DST Informatique
 
-Le **DST Informatique** est un devoir individuel réalisé **sur ordinateur
-pendant le créneau habituel du TD**.
-
-📅 **Période prévue : semaine du 7 décembre**  
-La date exacte sera précisée dans chaque groupe en fonction de l'avancement.
+Le **DST Informatique** est un devoir individuel réalisé **sur ordinateur**,
+pendant le créneau habituel du TD.
 
 L'épreuve se déroule sur les **ordinateurs fixes de la salle informatique**.
 
-Elle permet de mettre en pratique les méthodes de traitement et de
-représentation des données étudiées pendant les TD.
-
-> 💡 **En une phrase :** le DST Informatique vérifie votre capacité à mettre
-> en pratique, de manière autonome sur ordinateur, les méthodes de traitement
-> et d'analyse des données étudiées en TD.
-
----
-
-## 🎓 Examen final (60 %)
-
-L'examen final est une épreuve pratique portant sur le traitement et la
-représentation d'un jeu de données.
-
-Les étudiant·es devront notamment être capables de mobiliser les méthodes
-étudiées pendant le semestre :
-
-**calcul → traitement des données → représentation → export → jointure
-→ cartographie sous Magrit**
-
-> 💡 **En une phrase :** l'examen final évalue votre capacité à réaliser
-> l'ensemble de la chaîne de traitement d'un jeu de données jusqu'à sa
-> représentation cartographique.
+> 💡 **En une phrase :** le DST Informatique vérifie votre capacité à appliquer
+> de manière autonome sur ordinateur les méthodes de traitement et d'analyse
+> des données étudiées pendant les TD.
 
 ---
 
@@ -160,11 +169,12 @@ Les étudiant·es devront notamment être capables de mobiliser les méthodes
 
 ## Excel
 
-**Excel** sera utilisé pour :
+**Excel** sera principalement utilisé pour :
 
 - organiser les données ;
 - effectuer les calculs statistiques ;
 - analyser les données ;
+- produire des graphiques ;
 - préparer les fichiers nécessaires aux exercices.
 
 ## Magrit
@@ -175,17 +185,27 @@ Les étudiant·es devront notamment être capables de mobiliser les méthodes
 
 ---
 
-# 📂 Ressources du cours
+# 📂 Ressources
 
-Vous trouverez sur ce site les supports et les documents nécessaires aux
-différentes séances.
+### Documents généraux
 
-- [**TD1 — Statistique univariée**](01_TD1_Statistique_Univariee.html)
-- [**TD2 — Relation quanti-quanti**](02_TD2_Relation_Quanti_Quanti.html)
-- [**TD3 — Relation quanti-quanti non linéaire**](03_TD3_Relation_Non_Lineaire.html)
-- [**TD4 — Relation quali-quali**](04_TD4_Relation_Quali_Quali.html)
-- [**TD5 — Erreur écologique**](05_TD5_Erreur_Ecologique.html)
-- [**TD6 — Relation quali-quanti**](06_TD6_Relation_Quali_Quanti.html)
+👉 [**Présentation du module (PDF)**](documents/Presentation_du_module.pdf)
+
+👉 [**Déroulé pédagogique (PDF)**](documents/deroule_pedagogique.pdf)
+
+### Travaux dirigés
+
+👉 [**TD1 - Statistique univariée**](01_TD1_Statistique_Univariee.html)
+
+👉 [**TD2 - Relation quanti-quanti**](02_TD2_Relation_Quanti_Quanti.html)
+
+👉 [**TD3 - Relation quanti-quanti non linéaire**](03_TD3_Relation_Non_Lineaire.html)
+
+👉 [**TD4 - Relation quali-quali**](04_TD4_Relation_Quali_Quali.html)
+
+👉 [**TD5 - Erreur écologique**](05_TD5_Erreur_Ecologique.html)
+
+👉 [**TD6 - Relation quali-quanti**](06_TD6_Relation_Quali_Quanti.html)
 
 ---
 
