@@ -1,4 +1,4 @@
-# Statistiques et cartographie — Site du cours
+# Statistiques et cartographie - Site du cours
 
 Site pédagogique généré avec Jekyll (thème "Read the Docs"), prêt à être publié
 gratuitement sur GitHub Pages.
