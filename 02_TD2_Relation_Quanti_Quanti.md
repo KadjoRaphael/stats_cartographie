@@ -288,7 +288,7 @@ relation entre deux variables quantitatives :
 - résidus ;
 - formes des nuages de points.
 
-👉 [**Télécharger le support - Relation entre deux variables quantitatives (PDF)**](documents/TD2/Relation_entre_deux_variables_quantitatives.pdf)
+👉 [**Télécharger le support - Relation entre deux variables quantitatives (PDF)**](documents/TD2/Relation_entre_deux_variables_quantitativesX.pdf)
  
 ---
 
