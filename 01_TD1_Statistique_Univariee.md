@@ -179,6 +179,8 @@ dans Excel. Après le téléchargement, vous devez d'abord
 à l'énoncé et aux données.
 </div>
 
+👉 [**Télécharger la suite du TD1 **](documents/TD1/TD1.xlsx)
+
 ---
 
 # ✅ Correction du TD
