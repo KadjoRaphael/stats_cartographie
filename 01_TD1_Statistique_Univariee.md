@@ -190,7 +190,7 @@ La correction est fournie au format Excel.
 Elle vous permettra de **vérifier vos calculs et de comparer vos résultats**
 après avoir réalisé les exercices.
 
-👉 [**Télécharger la correction du TD1 (Excel)**](documents/TD1/TD1_Corrige.xlsx)
+👉 [**Télécharger la correction du TD1 (Excel)**](documents/TD1/TD1_corrige.xlsx)
 
 > ⚠️ Essayez de réaliser les exercices avant de consulter la correction.
 
